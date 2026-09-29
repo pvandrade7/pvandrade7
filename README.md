@@ -14,5 +14,5 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unifor com foco na criaç
 ### Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,postgres,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,html,css,postgres,mysql,git,github,claudecode" />
 </p>
