@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unifor com foco na criaç
 
 - 🔌 Desenvolvimento e integração de **APIs REST**.
 
-- 🗄️ Experiência com **bancos de dados relacionais** como **PostgreSQL**, além da autenticação de usuários e serviços em nuvem.
+- 🗄️ Experiência com **bancos de dados relacionais**, além da autenticação de usuários e serviços em nuvem.
 
 - 🚀 Desenvolvo **projetos pessoais e acadêmicos**, aplicando conceitos de desenvolvimento de software e explorando novas tecnologias.
 
