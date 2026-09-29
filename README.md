@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá 👋 Eu sou Victor!
 
-<!--
-**pvandrade7/pvandrade7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor de Software
+Estudante de Análise e Desenvolvimento de Sistemas na Unifor com foco na criação de aplicações Web.
 
-Here are some ideas to get you started:
+- 🖥️ Experiência prática em desenvolvimento de aplicações **FullStack** utilizando JavaScript, React, Node.js e Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔌 Desenvolvimento e integração de **APIs REST**.
+
+- 🗄️ Experiência com **bancos de dados relacionais** como **PostgreSQL**, além da autenticação de usuários e serviços em nuvem.
+
+- 🚀 Desenvolvo **projetos pessoais e acadêmicos**, aplicando conceitos de desenvolvimento de software e explorando novas tecnologias.
+
+### Stacks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,postgres,supabase,git,github" />
+</p>
