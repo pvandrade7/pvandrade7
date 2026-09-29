@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unifor com foco na criaç
 
 - 🚀 Desenvolvo **projetos pessoais e acadêmicos**, aplicando conceitos de desenvolvimento de software e explorando novas tecnologias.
 
-### Stacks
+# Stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,html,css,postgres,mysql,git,github" />
